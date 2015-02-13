@@ -5,7 +5,7 @@
         
 * [Source Code](https://github.com/paulorochasa/RepData_PeerAssessment1)
         
-* [Knitr HTML rendered](https://github.com/paulorochasa/RepData_PeerAssessment1/PA1_template.html)
+* [Knitr HTML rendered](https://github.com/paulorochasa/RepData_PeerAssessment1/blob/master/PA1_template.html)
 
 ## Loading and preprocessing the data
 
